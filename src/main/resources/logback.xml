@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration>
 	<property name="HOME_LOG"
-		value="E:\\ProdPhase\\Project\\order-management-service\\log\\order.html" />
+		value="C:\\Users\\hrish\\Downloads\\supermarket-app-order-management-service\\supermarket-app-order-management-service\\log\\order.html" />
 
 <!-- value="E:\\ProdPhase\\Project\\order-management-service\\log\\order.html" /> -->
 

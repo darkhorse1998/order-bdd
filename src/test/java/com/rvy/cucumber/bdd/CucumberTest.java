@@ -19,7 +19,7 @@ import cucumber.api.junit.Cucumber;
 //		monochrome = true
 //	)
 @CucumberOptions(
-		features = "src/test/resources/features",
+		features = "sr	test/resources/features",
 		glue= "com.rvy.cucumber.bdd.stepdefs",
 		plugin = { "pretty", "json:target/Cucumber.json" },
 		monochrome = true
