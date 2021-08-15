@@ -40,7 +40,7 @@ public class OrderSteps extends AbstractSteps implements En {
       
 //      super.testContext()
 //          .setPayload(customerList.get(0));
-      order = populateOrder(orderData.get(6));
+      order = populateOrder(orderData.get(1));
       
     });
 
